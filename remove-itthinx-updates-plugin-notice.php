@@ -3,7 +3,7 @@
  * Plugin Name: Remove itthinx Updates Plugin Notice
  * Plugin URI: https://sozot.com/projects/
  * Description: This plugin removes the itthinx Updates Plugin Notice from the top of your WordPress Admin page.
- * Version: 1.0.1
+ * Version: 1.0.2
  * Author: Andy Sozot
  * Author URI: https://sozot.com/
  * Requires at least: 3.0

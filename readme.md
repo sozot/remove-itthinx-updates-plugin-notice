@@ -4,7 +4,7 @@ Tags: itthinx updates plugin notice, itthinx admin notice
 Requires at least: 3.0
 Tested up to: 4.8.2 
 Donate link: https://sozot.com/
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 
 Remove the itthinx Updates Plugin Notice from WordPress Admin.
@@ -19,7 +19,15 @@ Upload the plugin to your blog, Activate it.
 
 That's it! The itthinx Updates Plugin Notice will no longer display.
 
+## Screenshots
+
+1. The itthinx updates notice is permanently displayed in the WP-Admin header after activating any itthinx plugins
+2. Once this plugin is installed and activated, the itthinx updates notice is removed.
+
 ## Changelog
+
+### 1.0.2
+* Adding screenshots
 
 ### 1.0.1
 * Updated for WP 4.8.2
