@@ -2,9 +2,9 @@
 Contributors: sozot
 Tags: itthinx updates plugin notice, itthinx admin notice
 Requires at least: 3.0
-Tested up to: 4.8.2 
+Tested up to: 4.9.5
 Donate link: https://sozot.com/
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 License: GPLv2 or later
 
 Remove the itthinx Updates Plugin Notice from WordPress Admin.
